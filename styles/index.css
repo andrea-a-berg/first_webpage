@@ -1,0 +1,31 @@
+h1 {
+    color:violet;
+    font-size: 50px;
+    text-align: center;
+    background-color: blue;
+}
+
+h4 {
+    color:red;
+    font-weight: 1000;
+}
+
+li {
+    color: green;
+}
+
+.info-mig {
+    font-style: italic;
+}
+
+body {
+    background-color: lightskyblue;
+}
+
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px green;
+}
